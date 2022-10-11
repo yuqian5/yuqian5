@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @yuqian5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yuqian5/yuqian5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kerry
+- 👀 I’m interested in SWE and RL
+- 🌱 I’m currently a undergraduate student at University of Albert studying computing science
+- 💁‍♂️ You can find out more on my [website](kerrycao.ca)
